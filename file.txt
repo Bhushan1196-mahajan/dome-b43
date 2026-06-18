@@ -1,0 +1,5 @@
+syntax
+syntax refers to the rules and princiles
+that govern the structure in a langee. 
+it determines how words are arranged
+to convey clear and meaningful messages.
